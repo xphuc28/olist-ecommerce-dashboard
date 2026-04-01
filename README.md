@@ -29,7 +29,7 @@ The dashboard was built to answer key business questions around:
 
 ## Repository Structure
 - `README.md`: project overview
-- `backup.pbix`: Power BI dashboard file
+- `dashboard.pbix`: Power BI dashboard file
 - `report.pdf`: final report
 - `images/`: dashboard screenshots
 
