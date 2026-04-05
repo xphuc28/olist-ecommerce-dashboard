@@ -1,4 +1,4 @@
-# Olist E-commerce Business Analysis Dashboard
+# Olist E-commerce Business Analysis
 
 This project analyzes Olist’s Brazilian e-commerce dataset in Power BI to evaluate sales performance, customer behavior, seller performance, and delivery issues.
 
